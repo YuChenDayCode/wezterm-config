@@ -8,9 +8,10 @@
 
 ---
 
-预览图
-![p1](./pre2.png)
-![p1](pre1.png)
+
+![p1](./pre1.png)
+![p2](./pre2.png)
+
 
 > prompt 行的效果使用了 `starship`
 
